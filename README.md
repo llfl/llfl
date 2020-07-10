@@ -1,5 +1,7 @@
+
 ### Hi there 👋
 
+### 🌱 I’m currently learning FPGA and neural network quantization (It is quiet intresting).
 <!--
 **llfl/llfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
