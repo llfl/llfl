@@ -1,7 +1,8 @@
 
 ### Hi there 👋
 
-### 🌱 I’m currently learning FPGA and neural network quantization (It is quiet intresting).
+### ~~🌱 I’m currently learning FPGA and neural network quantization (It is quiet intresting).~~
+### I'm currently working on Linux Kernel and accelerator.
 <!--
 **llfl/llfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
